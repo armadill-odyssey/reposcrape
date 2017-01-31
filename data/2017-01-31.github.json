@@ -1,0 +1,2272 @@
+{
+  "1C Enterprise": [
+    {
+      "author": "ro31337",
+      "desc": "LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers.",
+      "forks": 124,
+      "lang": "JavaScript",
+      "repo": "libretaxi",
+      "repoLink": "/ro31337/libretaxi",
+      "stars": 845,
+      "starsToday": 665
+    },
+    {
+      "author": "Fakerr",
+      "desc": "Simple and handy tool to easily recall what you've done",
+      "forks": 31,
+      "lang": "Shell",
+      "repo": "git-recall",
+      "repoLink": "/Fakerr/git-recall",
+      "stars": 1190,
+      "starsToday": 528
+    },
+    {
+      "author": "oliver-moran",
+      "desc": "An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
+      "forks": 155,
+      "lang": "JavaScript",
+      "repo": "jimp",
+      "repoLink": "/oliver-moran/jimp",
+      "stars": 2652,
+      "starsToday": 511
+    },
+    {
+      "author": "FrontendMasters",
+      "desc": "2017 edition of our front-end development guide",
+      "forks": 39,
+      "lang": "JavaScript",
+      "repo": "front-end-handbook-2017",
+      "repoLink": "/FrontendMasters/front-end-handbook-2017",
+      "stars": 573,
+      "starsToday": 482
+    },
+    {
+      "author": "freeCodeCamp",
+      "desc": "The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+      "forks": 9170,
+      "lang": "JavaScript",
+      "repo": "freeCodeCamp",
+      "repoLink": "/freeCodeCamp/freeCodeCamp",
+      "stars": 227574,
+      "starsToday": 456
+    },
+    {
+      "author": "syscl",
+      "desc": "macOS patches for Dell XPS 13 9350 (Skylake)",
+      "forks": 15,
+      "lang": "Shell",
+      "repo": "XPS9350-macOS",
+      "repoLink": "/syscl/XPS9350-macOS",
+      "stars": 388,
+      "starsToday": 348
+    },
+    {
+      "author": "monostable",
+      "desc": "A curated list of awesome resources for electronic engineers and hobbyists",
+      "forks": 49,
+      "lang": "Unknown",
+      "repo": "awesome-electronics",
+      "repoLink": "/monostable/awesome-electronics",
+      "stars": 1425,
+      "starsToday": 331
+    },
+    {
+      "author": "fission",
+      "desc": "Fast Serverless Functions for Kubernetes",
+      "forks": 49,
+      "lang": "Go",
+      "repo": "fission",
+      "repoLink": "/fission/fission",
+      "stars": 1141,
+      "starsToday": 288
+    },
+    {
+      "author": "pubkey",
+      "desc": "\ud83d\udcbb \ud83d\udcf1 Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime \u2757\ufe0f",
+      "forks": 70,
+      "lang": "JavaScript",
+      "repo": "rxdb",
+      "repoLink": "/pubkey/rxdb",
+      "stars": 2660,
+      "starsToday": 271
+    },
+    {
+      "author": "x0rz",
+      "desc": "Tweets metadata scraper & activity analyzer",
+      "forks": 36,
+      "lang": "Python",
+      "repo": "tweets_analyzer",
+      "repoLink": "/x0rz/tweets_analyzer",
+      "stars": 353,
+      "starsToday": 201
+    },
+    {
+      "author": "klange",
+      "desc": "Hobby kernel + userspace, built mostly from scratch. Composited GUI, dynamically linked ELF binaries, networking, Python applications, and more.",
+      "forks": 224,
+      "lang": "C",
+      "repo": "toaruos",
+      "repoLink": "/klange/toaruos",
+      "stars": 1802,
+      "starsToday": 201
+    },
+    {
+      "author": "hyperapp",
+      "desc": "1kb JavaScript library for building modern UI applications",
+      "forks": 13,
+      "lang": "JavaScript",
+      "repo": "hyperapp",
+      "repoLink": "/hyperapp/hyperapp",
+      "stars": 266,
+      "starsToday": 196
+    },
+    {
+      "author": "pfnet",
+      "desc": "line drawing colorization using chainer",
+      "forks": 111,
+      "lang": "Jupyter Notebook",
+      "repo": "PaintsChainer",
+      "repoLink": "/pfnet/PaintsChainer",
+      "stars": 1037,
+      "starsToday": 189
+    },
+    {
+      "author": "webpack",
+      "desc": "Example for a super simple PWA with webpack.",
+      "forks": 7,
+      "lang": "JavaScript",
+      "repo": "webpack-pwa",
+      "repoLink": "/webpack/webpack-pwa",
+      "stars": 325,
+      "starsToday": 186
+    },
+    {
+      "author": "avocode",
+      "desc": "Nachos UI is a React Native component library.",
+      "forks": 5,
+      "lang": "JavaScript",
+      "repo": "nachos-ui",
+      "repoLink": "/avocode/nachos-ui",
+      "stars": 173,
+      "starsToday": 156
+    },
+    {
+      "author": "kciter",
+      "desc": "Generate artistic QR code. \ud83c\udfa8",
+      "forks": 26,
+      "lang": "JavaScript",
+      "repo": "qart.js",
+      "repoLink": "/kciter/qart.js",
+      "stars": 1168,
+      "starsToday": 141
+    },
+    {
+      "author": "react-community",
+      "desc": "Learn once, navigate anywhere",
+      "forks": 56,
+      "lang": "JavaScript",
+      "repo": "react-navigation",
+      "repoLink": "/react-community/react-navigation",
+      "stars": 1584,
+      "starsToday": 134
+    },
+    {
+      "author": "murlokswarm",
+      "desc": "Package to create apps with GO, HTML and CSS.",
+      "forks": 3,
+      "lang": "Go",
+      "repo": "app",
+      "repoLink": "/murlokswarm/app",
+      "stars": 173,
+      "starsToday": 134
+    },
+    {
+      "author": "deepsyx",
+      "desc": "Raspberry Pi 3 based home automation with NodeJS and React Native.",
+      "forks": 94,
+      "lang": "JavaScript",
+      "repo": "home-automation",
+      "repoLink": "/deepsyx/home-automation",
+      "stars": 2211,
+      "starsToday": 124
+    },
+    {
+      "author": "martinarjovsky",
+      "desc": "",
+      "forks": 13,
+      "lang": "Python",
+      "repo": "WassersteinGAN",
+      "repoLink": "/martinarjovsky/WassersteinGAN",
+      "stars": 183,
+      "starsToday": 113
+    },
+    {
+      "author": "tensorflow",
+      "desc": "Computation using data flow graphs for scalable machine learning",
+      "forks": 20734,
+      "lang": "C++",
+      "repo": "tensorflow",
+      "repoLink": "/tensorflow/tensorflow",
+      "stars": 44409,
+      "starsToday": 83
+    },
+    {
+      "author": "jarrekk",
+      "desc": "\ud83c\udf86 Wkhtmltoimage python wrapper to convert html to image",
+      "forks": 10,
+      "lang": "Python",
+      "repo": "imgkit",
+      "repoLink": "/jarrekk/imgkit",
+      "stars": 260,
+      "starsToday": 108
+    },
+    {
+      "author": "bfirsh",
+      "desc": "Homebrew, but with Docker images",
+      "forks": 37,
+      "lang": "Go",
+      "repo": "whalebrew",
+      "repoLink": "/bfirsh/whalebrew",
+      "stars": 1581,
+      "starsToday": 108
+    },
+    {
+      "author": "ParsePlatform",
+      "desc": "Parse-compatible API server module for Node/Express",
+      "forks": 3425,
+      "lang": "JavaScript",
+      "repo": "parse-server",
+      "repoLink": "/ParsePlatform/parse-server",
+      "stars": 12701,
+      "starsToday": 104
+    },
+    {
+      "author": "squeaky-pl",
+      "desc": "Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+      "forks": 3,
+      "lang": "C",
+      "repo": "japronto",
+      "repoLink": "/squeaky-pl/japronto",
+      "stars": 121,
+      "starsToday": 105
+    }
+  ],
+  "ABAP": [
+    {
+      "author": "larshp",
+      "desc": "Git client for ABAP",
+      "forks": 56,
+      "lang": "ABAP",
+      "repo": "abapGit",
+      "repoLink": "/larshp/abapGit",
+      "stars": 155,
+      "starsToday": 0
+    },
+    {
+      "author": "emilybache",
+      "desc": "Starting code for a Refactoring Code Kata on the Tennis rules",
+      "forks": 236,
+      "lang": "ABAP",
+      "repo": "Tennis-Refactoring-Kata",
+      "repoLink": "/emilybache/Tennis-Refactoring-Kata",
+      "stars": 124,
+      "starsToday": 0
+    },
+    {
+      "author": "rvanmil",
+      "desc": "ABAP Object-oriented programming Library",
+      "forks": 26,
+      "lang": "ABAP",
+      "repo": "ABAP-OOP-Library",
+      "repoLink": "/rvanmil/ABAP-OOP-Library",
+      "stars": 51,
+      "starsToday": 0
+    },
+    {
+      "author": "abramsba",
+      "desc": "An ABAP reference examples for common technical tasks",
+      "forks": 12,
+      "lang": "ABAP",
+      "repo": "AbapExamples",
+      "repoLink": "/abramsba/AbapExamples",
+      "stars": 49,
+      "starsToday": 0
+    },
+    {
+      "author": "epeterson320",
+      "desc": "ABAP Logging as painless as any other language",
+      "forks": 11,
+      "lang": "ABAP",
+      "repo": "ABAP-Logger",
+      "repoLink": "/epeterson320/ABAP-Logger",
+      "stars": 42,
+      "starsToday": 0
+    },
+    {
+      "author": "larshp",
+      "desc": "Open source checks for SAP Code Inspector / ABAP Test Cockpit",
+      "forks": 12,
+      "lang": "ABAP",
+      "repo": "abapOpenChecks",
+      "repoLink": "/larshp/abapOpenChecks",
+      "stars": 28,
+      "starsToday": 0
+    },
+    {
+      "author": "moreus",
+      "desc": "",
+      "forks": 7,
+      "lang": "ABAP",
+      "repo": "ABAPDesignPattern",
+      "repoLink": "/moreus/ABAPDesignPattern",
+      "stars": 28,
+      "starsToday": 0
+    },
+    {
+      "author": "mauriciolauffer",
+      "desc": "ABAP Code sample",
+      "forks": 10,
+      "lang": "ABAP",
+      "repo": "ABAP",
+      "repoLink": "/mauriciolauffer/ABAP",
+      "stars": 24,
+      "starsToday": 0
+    },
+    {
+      "author": "rvanmil",
+      "desc": "ABAP Regular Expressions Training",
+      "forks": 9,
+      "lang": "ABAP",
+      "repo": "ABAP-Regex-Training",
+      "repoLink": "/rvanmil/ABAP-Regex-Training",
+      "stars": 19,
+      "starsToday": 0
+    },
+    {
+      "author": "larshp",
+      "desc": "Visualize complex object hierarchies using debugger script",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "ABAP-Object-Visualizer",
+      "repoLink": "/larshp/ABAP-Object-Visualizer",
+      "stars": 13,
+      "starsToday": 0
+    },
+    {
+      "author": "fidley",
+      "desc": "FALV - Fast ALV Grid",
+      "forks": 2,
+      "lang": "ABAP",
+      "repo": "falv",
+      "repoLink": "/fidley/falv",
+      "stars": 13,
+      "starsToday": 0
+    },
+    {
+      "author": "sbcgua",
+      "desc": "SAP ABAP tool for unit testing",
+      "forks": 2,
+      "lang": "ABAP",
+      "repo": "mockup_loader",
+      "repoLink": "/sbcgua/mockup_loader",
+      "stars": 12,
+      "starsToday": 0
+    },
+    {
+      "author": "Sumu-Ning",
+      "desc": "ABAP Utilities for AES/Rijndael encryption, decryption",
+      "forks": 3,
+      "lang": "ABAP",
+      "repo": "AES",
+      "repoLink": "/Sumu-Ning/AES",
+      "stars": 10,
+      "starsToday": 0
+    },
+    {
+      "author": "koemaeda",
+      "desc": "ABAP Markdown",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "abap-markdown",
+      "repoLink": "/koemaeda/abap-markdown",
+      "stars": 9,
+      "starsToday": 0
+    },
+    {
+      "author": "HannesRempel",
+      "desc": "Providing reusable ABAP components",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "ABAP-Commons",
+      "repoLink": "/HannesRempel/ABAP-Commons",
+      "stars": 9,
+      "starsToday": 0
+    },
+    {
+      "author": "fatihpense",
+      "desc": "Medepia ABAP JSON library that can generate and parse any JSON string.",
+      "forks": 3,
+      "lang": "ABAP",
+      "repo": "zcl_mdp_json",
+      "repoLink": "/fatihpense/zcl_mdp_json",
+      "stars": 8,
+      "starsToday": 0
+    },
+    {
+      "author": "RainerWinkler",
+      "desc": "An project to extract model data from a SAP system with FAMIX and Moose",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "Moose-FAMIX-SAP-Extractor",
+      "repoLink": "/RainerWinkler/Moose-FAMIX-SAP-Extractor",
+      "stars": 8,
+      "starsToday": 0
+    },
+    {
+      "author": "cesar-sap",
+      "desc": "An ABAP class for sending DCN notifications to SUP (SAP/Sybase Unwired Platform)",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "abap_sup_dcn",
+      "repoLink": "/cesar-sap/abap_sup_dcn",
+      "stars": 8,
+      "starsToday": 0
+    },
+    {
+      "author": "lucattelli",
+      "desc": "Z Instant Comprehensive ABAP - Machine Learning Library",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "ZICA_ML",
+      "repoLink": "/lucattelli/ZICA_ML",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "larshp",
+      "desc": "Git server implemented in ABAP",
+      "forks": 6,
+      "lang": "ABAP",
+      "repo": "abapGitServer",
+      "repoLink": "/larshp/abapGitServer",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "wwsheng009",
+      "desc": "",
+      "forks": 2,
+      "lang": "ABAP",
+      "repo": "ABAP",
+      "repoLink": "/wwsheng009/ABAP",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "abramsba",
+      "desc": "ABAP command line interface utility",
+      "forks": 1,
+      "lang": "ABAP",
+      "repo": "abap-cli",
+      "repoLink": "/abramsba/abap-cli",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "lucattelli",
+      "desc": "Z Instant Comprehensive ABAP example - Search Source",
+      "forks": 6,
+      "lang": "ABAP",
+      "repo": "ZICA_SEARCH_SOURCE",
+      "repoLink": "/lucattelli/ZICA_SEARCH_SOURCE",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "codecop",
+      "desc": "Starting code for the Tennis Refactoring Kata in many programming languages used for Coding Dojo at ATD",
+      "forks": 236,
+      "lang": "ABAP",
+      "repo": "Tennis-Kata-ATD2013",
+      "repoLink": "/codecop/Tennis-Kata-ATD2013",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "christianguenter2",
+      "desc": "sitFRA 2016",
+      "forks": 5,
+      "lang": "ABAP",
+      "repo": "sitFRA_2016",
+      "repoLink": "/christianguenter2/sitFRA_2016",
+      "stars": 5,
+      "starsToday": 0
+    }
+  ],
+  "ABNF": [],
+  "AGS Script": [
+    {
+      "author": "jeromeetienne",
+      "desc": "extension system for three.js",
+      "forks": 111,
+      "lang": "AGS Script",
+      "repo": "tquery",
+      "repoLink": "/jeromeetienne/tquery",
+      "stars": 643,
+      "starsToday": 0
+    },
+    {
+      "author": "KonradIT",
+      "desc": "Autoexec hack is a copilation of hacks for GoPro Cameras, like a GHDK (GoPro Hack Developer Kit).",
+      "forks": 298,
+      "lang": "AGS Script",
+      "repo": "autoexechack",
+      "repoLink": "/KonradIT/autoexechack",
+      "stars": 330,
+      "starsToday": 0
+    },
+    {
+      "author": "PJanisio",
+      "desc": "Compilation of autoexec scripts and mods for Xiaomi Yi camera",
+      "forks": 25,
+      "lang": "AGS Script",
+      "repo": "Xiaomi_Yi_autoexec",
+      "repoLink": "/PJanisio/Xiaomi_Yi_autoexec",
+      "stars": 141,
+      "starsToday": 0
+    },
+    {
+      "author": "funneld",
+      "desc": "Collection of various improvements for XiaomiYi action camera",
+      "forks": 82,
+      "lang": "AGS Script",
+      "repo": "XiaomiYi",
+      "repoLink": "/funneld/XiaomiYi",
+      "stars": 113,
+      "starsToday": 0
+    },
+    {
+      "author": "nairol",
+      "desc": "Lighthouse Reverse-Engineered Documentation",
+      "forks": 13,
+      "lang": "AGS Script",
+      "repo": "LighthouseRedox",
+      "repoLink": "/nairol/LighthouseRedox",
+      "stars": 79,
+      "starsToday": 0
+    },
+    {
+      "author": "asalga",
+      "desc": "A WebGL library for streaming 3D point clouds",
+      "forks": 19,
+      "lang": "AGS Script",
+      "repo": "XB-PointStream",
+      "repoLink": "/asalga/XB-PointStream",
+      "stars": 61,
+      "starsToday": 0
+    },
+    {
+      "author": "henjo",
+      "desc": "Circuit analysis environment for Python",
+      "forks": 16,
+      "lang": "AGS Script",
+      "repo": "pycircuit",
+      "repoLink": "/henjo/pycircuit",
+      "stars": 47,
+      "starsToday": 0
+    },
+    {
+      "author": "BlueBrain",
+      "desc": "Neuronal Morphology Analysis Tool",
+      "forks": 13,
+      "lang": "AGS Script",
+      "repo": "NeuroM",
+      "repoLink": "/BlueBrain/NeuroM",
+      "stars": 20,
+      "starsToday": 0
+    },
+    {
+      "author": "cmars",
+      "desc": "OpenPGP Key Server (main development is in github.com/hockeypuck/hockeypuck)",
+      "forks": 12,
+      "lang": "AGS Script",
+      "repo": "hockeypuck",
+      "repoLink": "/cmars/hockeypuck",
+      "stars": 19,
+      "starsToday": 0
+    },
+    {
+      "author": "Bit-Nation",
+      "desc": "Globally orientated citizenship with private passport services using available cryptographic tools",
+      "forks": 60,
+      "lang": "AGS Script",
+      "repo": "World-Citizenship",
+      "repoLink": "/Bit-Nation/World-Citizenship",
+      "stars": 19,
+      "starsToday": 0
+    },
+    {
+      "author": "hypoxic",
+      "desc": "Various GoPro HERO4 Session Scripts and information",
+      "forks": 4,
+      "lang": "AGS Script",
+      "repo": "hero4-session",
+      "repoLink": "/hypoxic/hero4-session",
+      "stars": 19,
+      "starsToday": 0
+    },
+    {
+      "author": "chrishwiggins",
+      "desc": "little scripts to introduce people to each other.",
+      "forks": 3,
+      "lang": "AGS Script",
+      "repo": "orly",
+      "repoLink": "/chrishwiggins/orly",
+      "stars": 18,
+      "starsToday": 0
+    },
+    {
+      "author": "roryk",
+      "desc": "Diceware random password generation using the ANU quantum random number server as the randomness source",
+      "forks": 5,
+      "lang": "AGS Script",
+      "repo": "quantum-diceware",
+      "repoLink": "/roryk/quantum-diceware",
+      "stars": 18,
+      "starsToday": 0
+    },
+    {
+      "author": "rapid7",
+      "desc": "",
+      "forks": 4,
+      "lang": "AGS Script",
+      "repo": "embedded-tools",
+      "repoLink": "/rapid7/embedded-tools",
+      "stars": 17,
+      "starsToday": 0
+    },
+    {
+      "author": "emanchado",
+      "desc": "Libro \"El camino a un mejor programador\"",
+      "forks": 2,
+      "lang": "AGS Script",
+      "repo": "camino-mejor-programador",
+      "repoLink": "/emanchado/camino-mejor-programador",
+      "stars": 17,
+      "starsToday": 0
+    },
+    {
+      "author": "hpimr",
+      "desc": "\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e hpmor.com. \u0417\u0433\u0435\u043d\u0435\u0440\u043e\u0432\u0430\u043d\u0430 html \u043a\u043d\u0438\u0436\u043a\u0430 \u0442\u0443\u0442: http://\u0433\u043f\u0456\u043c\u0440.\u0443\u043a\u0440/",
+      "forks": 8,
+      "lang": "AGS Script",
+      "repo": "hpimr",
+      "repoLink": "/hpimr/hpimr",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "arachnidlabs",
+      "desc": "AVR based, arduino-compatible signal generator and frequency analyzer",
+      "forks": 4,
+      "lang": "AGS Script",
+      "repo": "tsunami",
+      "repoLink": "/arachnidlabs/tsunami",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "hodefoting",
+      "desc": "Tile/Component based font generator",
+      "forks": 1,
+      "lang": "AGS Script",
+      "repo": "0xA000",
+      "repoLink": "/hodefoting/0xA000",
+      "stars": 14,
+      "starsToday": 0
+    },
+    {
+      "author": "emsec",
+      "desc": "Open tools for side-channel analysis and related techniques. Currently, this repository contains: 1) A near-field EM probe amplifier circuit",
+      "forks": 2,
+      "lang": "AGS Script",
+      "repo": "SCATools",
+      "repoLink": "/emsec/SCATools",
+      "stars": 14,
+      "starsToday": 0
+    },
+    {
+      "author": "Ezandora",
+      "desc": "Relay script for KoLmafia, for the web game Kingdom of Loathing. Gives advice on how to play.",
+      "forks": 3,
+      "lang": "AGS Script",
+      "repo": "Guide",
+      "repoLink": "/Ezandora/Guide",
+      "stars": 13,
+      "starsToday": 0
+    },
+    {
+      "author": "FyberLabs",
+      "desc": "Fyber Labs Flex Modules",
+      "forks": 12,
+      "lang": "AGS Script",
+      "repo": "FlexModule",
+      "repoLink": "/FyberLabs/FlexModule",
+      "stars": 12,
+      "starsToday": 0
+    },
+    {
+      "author": "gondur",
+      "desc": "Cartlife Source code",
+      "forks": 2,
+      "lang": "AGS Script",
+      "repo": "cartlife_src",
+      "repoLink": "/gondur/cartlife_src",
+      "stars": 12,
+      "starsToday": 0
+    },
+    {
+      "author": "simeonf",
+      "desc": "Sample code and slides for an SQL Alchemy ORM tutorial",
+      "forks": 5,
+      "lang": "AGS Script",
+      "repo": "sqlalchemy-tutorial",
+      "repoLink": "/simeonf/sqlalchemy-tutorial",
+      "stars": 12,
+      "starsToday": 0
+    },
+    {
+      "author": "myriadrf",
+      "desc": "MIMO platform for advanced communications and PNT applications",
+      "forks": 9,
+      "lang": "AGS Script",
+      "repo": "A2300",
+      "repoLink": "/myriadrf/A2300",
+      "stars": 12,
+      "starsToday": 0
+    },
+    {
+      "author": "OpenSourceBrain",
+      "desc": "A project to illustrate how models and data from the Blue Brain Project can be converted to NeuroML and PyNN",
+      "forks": 11,
+      "lang": "AGS Script",
+      "repo": "BlueBrainProjectShowcase",
+      "repoLink": "/OpenSourceBrain/BlueBrainProjectShowcase",
+      "stars": 11,
+      "starsToday": 0
+    }
+  ],
+  "AMPL": [
+    {
+      "author": "amusecode",
+      "desc": "Astrophysical Multipurpose Software Environment. This is the main repository for AMUSE",
+      "forks": 22,
+      "lang": "AMPL",
+      "repo": "amuse",
+      "repoLink": "/amusecode/amuse",
+      "stars": 28,
+      "starsToday": 0
+    },
+    {
+      "author": "congdm",
+      "desc": "An Oberon-07 compiler for Intel 64 (AMD64) architecture",
+      "forks": 3,
+      "lang": "AMPL",
+      "repo": "Patchouli-Compiler",
+      "repoLink": "/congdm/Patchouli-Compiler",
+      "stars": 24,
+      "starsToday": 0
+    },
+    {
+      "author": "JohannesPfeifer",
+      "desc": "A collection of Dynare models",
+      "forks": 20,
+      "lang": "AMPL",
+      "repo": "DSGE_mod",
+      "repoLink": "/JohannesPfeifer/DSGE_mod",
+      "stars": 15,
+      "starsToday": 0
+    },
+    {
+      "author": "Chadderz121",
+      "desc": "CT-CODE Mario Kart Wii mod",
+      "forks": 7,
+      "lang": "AMPL",
+      "repo": "wii-ct-code",
+      "repoLink": "/Chadderz121/wii-ct-code",
+      "stars": 11,
+      "starsToday": 0
+    },
+    {
+      "author": "mlubin",
+      "desc": "Repository containing supplementary materials and code for \"JuMP: A Modeling Language for Mathematical Optimization\"",
+      "forks": 1,
+      "lang": "AMPL",
+      "repo": "JuMPSupplement",
+      "repoLink": "/mlubin/JuMPSupplement",
+      "stars": 10,
+      "starsToday": 0
+    },
+    {
+      "author": "nasa",
+      "desc": "",
+      "forks": 9,
+      "lang": "AMPL",
+      "repo": "WinSURE",
+      "repoLink": "/nasa/WinSURE",
+      "stars": 9,
+      "starsToday": 0
+    },
+    {
+      "author": "klo-manolo",
+      "desc": "Basic features for eneboo modules",
+      "forks": 14,
+      "lang": "AMPL",
+      "repo": "eneboo-features",
+      "repoLink": "/klo-manolo/eneboo-features",
+      "stars": 8,
+      "starsToday": 0
+    },
+    {
+      "author": "mpf",
+      "desc": "",
+      "forks": 5,
+      "lang": "AMPL",
+      "repo": "Optimization-Test-Problems",
+      "repoLink": "/mpf/Optimization-Test-Problems",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "ampl",
+      "desc": "Global optimization test set",
+      "forks": 2,
+      "lang": "AMPL",
+      "repo": "global-optimization",
+      "repoLink": "/ampl/global-optimization",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "xirsoi",
+      "desc": "Ancient Religions mod for CK2",
+      "forks": 13,
+      "lang": "AMPL",
+      "repo": "ancientreligions",
+      "repoLink": "/xirsoi/ancientreligions",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "marekyggdrasil",
+      "desc": "",
+      "forks": 0,
+      "lang": "AMPL",
+      "repo": "optilogistics",
+      "repoLink": "/marekyggdrasil/optilogistics",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "esa",
+      "desc": "AMPL transcriptions of optimal control problems of space relevance (requires ampl commercial software)",
+      "forks": 1,
+      "lang": "AMPL",
+      "repo": "SpaceAMPL",
+      "repoLink": "/esa/SpaceAMPL",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "nasa",
+      "desc": "",
+      "forks": 5,
+      "lang": "AMPL",
+      "repo": "WinASSIST",
+      "repoLink": "/nasa/WinASSIST",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "KaliLab",
+      "desc": "Optimization of neuronal models",
+      "forks": 9,
+      "lang": "AMPL",
+      "repo": "optimizer",
+      "repoLink": "/KaliLab/optimizer",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "m00nnsplit",
+      "desc": "Mod for Europa Universalis IV that adds My Little Pony stuff in Northern America.",
+      "forks": 6,
+      "lang": "AMPL",
+      "repo": "EU4-equestria-mod",
+      "repoLink": "/m00nnsplit/EU4-equestria-mod",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "CoFH",
+      "desc": "Repository for Stellar Expansion and all related addons!",
+      "forks": 2,
+      "lang": "AMPL",
+      "repo": "StellarExpansion",
+      "repoLink": "/CoFH/StellarExpansion",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "pavn",
+      "desc": "Convex Optimization models with exact and heuristic solution procedures",
+      "forks": 0,
+      "lang": "AMPL",
+      "repo": "IndustrialMathProgramming",
+      "repoLink": "/pavn/IndustrialMathProgramming",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "LittleSchnitz",
+      "desc": "",
+      "forks": 1,
+      "lang": "AMPL",
+      "repo": "kubaluba",
+      "repoLink": "/LittleSchnitz/kubaluba",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "proofcert",
+      "desc": "",
+      "forks": 1,
+      "lang": "AMPL",
+      "repo": "fpccheck",
+      "repoLink": "/proofcert/fpccheck",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "Wiimm",
+      "desc": "CT-CODE Mario Kart Wii mod",
+      "forks": 7,
+      "lang": "AMPL",
+      "repo": "wii-ct-code",
+      "repoLink": "/Wiimm/wii-ct-code",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "rieder",
+      "desc": "Astrophysical Multipurpose Software Environment. This is my fork of the main repository for AMUSE.",
+      "forks": 22,
+      "lang": "AMPL",
+      "repo": "amuse",
+      "repoLink": "/rieder/amuse",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "compneuro",
+      "desc": "Simulation scripts to compute Local Field Potentials (LFP) of cable compartmental models implemented with NEURON",
+      "forks": 2,
+      "lang": "AMPL",
+      "repo": "LFPsim",
+      "repoLink": "/compneuro/LFPsim",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "adamnie",
+      "desc": "",
+      "forks": 1,
+      "lang": "AMPL",
+      "repo": "MwPSiS_solutions",
+      "repoLink": "/adamnie/MwPSiS_solutions",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "ronkeizer",
+      "desc": "",
+      "forks": 2,
+      "lang": "AMPL",
+      "repo": "nonmem_examples",
+      "repoLink": "/ronkeizer/nonmem_examples",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "lucky13pjn",
+      "desc": "Omicron's Cheats mod for EUIV",
+      "forks": 0,
+      "lang": "AMPL",
+      "repo": "OmicronsCheats",
+      "repoLink": "/lucky13pjn/OmicronsCheats",
+      "stars": 3,
+      "starsToday": 0
+    }
+  ],
+  "ActionScript": [
+    {
+      "author": "Gamua",
+      "desc": "The Cross Platform Game Engine",
+      "forks": 874,
+      "lang": "ActionScript",
+      "repo": "Starling-Framework",
+      "repoLink": "/Gamua/Starling-Framework",
+      "stars": 2062,
+      "starsToday": 0
+    },
+    {
+      "author": "mikechambers",
+      "desc": "An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.",
+      "forks": 451,
+      "lang": "ActionScript",
+      "repo": "as3corelib",
+      "repoLink": "/mikechambers/as3corelib",
+      "stars": 1513,
+      "starsToday": 0
+    },
+    {
+      "author": "jhuckaby",
+      "desc": "HTML5 Webcam Image Capture Library with Flash Fallback",
+      "forks": 360,
+      "lang": "ActionScript",
+      "repo": "webcamjs",
+      "repoLink": "/jhuckaby/webcamjs",
+      "stars": 1228,
+      "starsToday": 0
+    },
+    {
+      "author": "AdamAtomic",
+      "desc": "flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt. It's primary function is to provide some useful base classes that you can extend to make your own game objects.",
+      "forks": 207,
+      "lang": "ActionScript",
+      "repo": "flixel",
+      "repoLink": "/AdamAtomic/flixel",
+      "stars": 1152,
+      "starsToday": 0
+    },
+    {
+      "author": "robertpenner",
+      "desc": "Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.",
+      "forks": 222,
+      "lang": "ActionScript",
+      "repo": "as3-signals",
+      "repoLink": "/robertpenner/as3-signals",
+      "stars": 1102,
+      "starsToday": 0
+    },
+    {
+      "author": "robotlegs",
+      "desc": "An ActionScript 3 application framework for Flash and Flex",
+      "forks": 272,
+      "lang": "ActionScript",
+      "repo": "robotlegs-framework",
+      "repoLink": "/robotlegs/robotlegs-framework",
+      "stars": 980,
+      "starsToday": 0
+    },
+    {
+      "author": "BowlerHatLLC",
+      "desc": "User interface components for Starling Framework",
+      "forks": 412,
+      "lang": "ActionScript",
+      "repo": "feathers",
+      "repoLink": "/BowlerHatLLC/feathers",
+      "stars": 912,
+      "starsToday": 0
+    },
+    {
+      "author": "LLK",
+      "desc": "Open source version of the Scratch 2.0 project editor. This is the basis for the online and offline versions of Scratch found on the website.",
+      "forks": 308,
+      "lang": "ActionScript",
+      "repo": "scratch-flash",
+      "repoLink": "/LLK/scratch-flash",
+      "stars": 895,
+      "starsToday": 0
+    },
+    {
+      "author": "amitp",
+      "desc": "Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines.",
+      "forks": 163,
+      "lang": "ActionScript",
+      "repo": "mapgen2",
+      "repoLink": "/amitp/mapgen2",
+      "stars": 880,
+      "starsToday": 0
+    },
+    {
+      "author": "away3d",
+      "desc": "Away3D engine for Flash Player 11",
+      "forks": 302,
+      "lang": "ActionScript",
+      "repo": "away3d-core-fp11",
+      "repoLink": "/away3d/away3d-core-fp11",
+      "stars": 674,
+      "starsToday": 0
+    },
+    {
+      "author": "minimalcomps",
+      "desc": "Minimal ActionScript 3.0 UI Components for Flash",
+      "forks": 197,
+      "lang": "ActionScript",
+      "repo": "minimalcomps",
+      "repoLink": "/minimalcomps/minimalcomps",
+      "stars": 653,
+      "starsToday": 0
+    },
+    {
+      "author": "mangui",
+      "desc": "HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr)",
+      "forks": 261,
+      "lang": "ActionScript",
+      "repo": "flashls",
+      "repoLink": "/mangui/flashls",
+      "stars": 630,
+      "starsToday": 0
+    },
+    {
+      "author": "DaVikingCode",
+      "desc": "Modern AS3 Game Engine",
+      "forks": 254,
+      "lang": "ActionScript",
+      "repo": "Citrus-Engine",
+      "repoLink": "/DaVikingCode/Citrus-Engine",
+      "stars": 537,
+      "starsToday": 0
+    },
+    {
+      "author": "claus",
+      "desc": "Low level Actionscript 3 library to parse, create, modify and publish SWF files.",
+      "forks": 119,
+      "lang": "ActionScript",
+      "repo": "as3swf",
+      "repoLink": "/claus/as3swf",
+      "stars": 513,
+      "starsToday": 0
+    },
+    {
+      "author": "increpare",
+      "desc": "Flash + AIR sound effects generator. Based on Sfxr.",
+      "forks": 41,
+      "lang": "ActionScript",
+      "repo": "bfxr",
+      "repoLink": "/increpare/bfxr",
+      "stars": 441,
+      "starsToday": 0
+    },
+    {
+      "author": "infusion",
+      "desc": "A webcam wrapper plugin for jQuery",
+      "forks": 209,
+      "lang": "ActionScript",
+      "repo": "jQuery-webcam",
+      "repoLink": "/infusion/jQuery-webcam",
+      "stars": 406,
+      "starsToday": 0
+    },
+    {
+      "author": "richardlord",
+      "desc": "An Actionscript 3 entity system framework for game development",
+      "forks": 89,
+      "lang": "ActionScript",
+      "repo": "Ash",
+      "repoLink": "/richardlord/Ash",
+      "stars": 394,
+      "starsToday": 0
+    },
+    {
+      "author": "greensock",
+      "desc": "Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com",
+      "forks": 132,
+      "lang": "ActionScript",
+      "repo": "GreenSock-AS3",
+      "repoLink": "/greensock/GreenSock-AS3",
+      "stars": 374,
+      "starsToday": 0
+    },
+    {
+      "author": "useflashpunk",
+      "desc": "A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the\u2026",
+      "forks": 143,
+      "lang": "ActionScript",
+      "repo": "FlashPunk",
+      "repoLink": "/useflashpunk/FlashPunk",
+      "stars": 372,
+      "starsToday": 0
+    },
+    {
+      "author": "AlternativaPlatform",
+      "desc": "Alternativa3D Flash GPU accelerated 3D engine",
+      "forks": 116,
+      "lang": "ActionScript",
+      "repo": "Alternativa3D",
+      "repoLink": "/AlternativaPlatform/Alternativa3D",
+      "stars": 366,
+      "starsToday": 0
+    },
+    {
+      "author": "fljot",
+      "desc": "Gestouch: multitouch gesture recognition library for Flash (ActionScript) development.",
+      "forks": 90,
+      "lang": "ActionScript",
+      "repo": "Gestouch",
+      "repoLink": "/fljot/Gestouch",
+      "stars": 366,
+      "starsToday": 0
+    },
+    {
+      "author": "jesses",
+      "desc": "Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine)",
+      "forks": 58,
+      "lang": "ActionScript",
+      "repo": "wck",
+      "repoLink": "/jesses/wck",
+      "stars": 365,
+      "starsToday": 0
+    },
+    {
+      "author": "grapefrukt",
+      "desc": "",
+      "forks": 96,
+      "lang": "ActionScript",
+      "repo": "juicy-breakout",
+      "repoLink": "/grapefrukt/juicy-breakout",
+      "stars": 359,
+      "starsToday": 0
+    },
+    {
+      "author": "tconkling",
+      "desc": "Exports Flash .FLAs to GPU-friendly formats",
+      "forks": 67,
+      "lang": "ActionScript",
+      "repo": "flump",
+      "repoLink": "/tconkling/flump",
+      "stars": 358,
+      "starsToday": 0
+    },
+    {
+      "author": "gskinner",
+      "desc": "A collection of AS3 libraries and sketches that I have built over the years.",
+      "forks": 44,
+      "lang": "ActionScript",
+      "repo": "AS3Libs",
+      "repoLink": "/gskinner/AS3Libs",
+      "stars": 358,
+      "starsToday": 0
+    }
+  ],
+  "Ada": [
+    {
+      "author": "AdaDoom3",
+      "desc": "Id Software's Id-tech-4-BFG in the Ada programming language.",
+      "forks": 12,
+      "lang": "Ada",
+      "repo": "AdaDoom3",
+      "repoLink": "/AdaDoom3/AdaDoom3",
+      "stars": 103,
+      "starsToday": 0
+    },
+    {
+      "author": "jrmarino",
+      "desc": "Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools)",
+      "forks": 3,
+      "lang": "Ada",
+      "repo": "synth",
+      "repoLink": "/jrmarino/synth",
+      "stars": 95,
+      "starsToday": 0
+    },
+    {
+      "author": "Lucretia",
+      "desc": "The Ada Microkernel Project",
+      "forks": 12,
+      "lang": "Ada",
+      "repo": "tamp",
+      "repoLink": "/Lucretia/tamp",
+      "stars": 76,
+      "starsToday": 0
+    },
+    {
+      "author": "cforler",
+      "desc": "The libadacrypt-dev is a crypto library for Ada with a nice API. It is written for the i386 and x86_64 hardware architecture and supports AES, Twofish, 3DES, Serpent SHA-1/256/384/512, DSA, OAEP-RSA, HMAC, CMAC, SIV, OCB, Nonces, Elliptic Curves. etc. It also contains regression tests consisting of over 400 tests. Dependencies: make and gnat-4.9.",
+      "forks": 13,
+      "lang": "Ada",
+      "repo": "Ada-Crypto-Library",
+      "repoLink": "/cforler/Ada-Crypto-Library",
+      "stars": 57,
+      "starsToday": 0
+    },
+    {
+      "author": "mk270",
+      "desc": "William Whitaker's WORDS, a Latin dictionary",
+      "forks": 18,
+      "lang": "Ada",
+      "repo": "whitakers-words",
+      "repoLink": "/mk270/whitakers-words",
+      "stars": 55,
+      "starsToday": 0
+    },
+    {
+      "author": "AdaCore",
+      "desc": "Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT.",
+      "forks": 29,
+      "lang": "Ada",
+      "repo": "Ada_Drivers_Library",
+      "repoLink": "/AdaCore/Ada_Drivers_Library",
+      "stars": 47,
+      "starsToday": 0
+    },
+    {
+      "author": "Fabien-Chouteau",
+      "desc": "A G-code parser and CNC controller (in Ada)",
+      "forks": 2,
+      "lang": "Ada",
+      "repo": "ACNC",
+      "repoLink": "/Fabien-Chouteau/ACNC",
+      "stars": 36,
+      "starsToday": 0
+    },
+    {
+      "author": "Lucretia",
+      "desc": "Ada Bare Bones OS development tutorial source code",
+      "forks": 7,
+      "lang": "Ada",
+      "repo": "bare_bones",
+      "repoLink": "/Lucretia/bare_bones",
+      "stars": 35,
+      "starsToday": 0
+    },
+    {
+      "author": "Lucretia",
+      "desc": "Ada 2012 bindings to SDL 2",
+      "forks": 7,
+      "lang": "Ada",
+      "repo": "sdlada",
+      "repoLink": "/Lucretia/sdlada",
+      "stars": 30,
+      "starsToday": 0
+    },
+    {
+      "author": "flyx",
+      "desc": "Thick Ada binding for OpenGL and GLFW",
+      "forks": 9,
+      "lang": "Ada",
+      "repo": "OpenGLAda",
+      "repoLink": "/flyx/OpenGLAda",
+      "stars": 29,
+      "starsToday": 0
+    },
+    {
+      "author": "AdaCore",
+      "desc": "The GNAT Programming Studio.",
+      "forks": 5,
+      "lang": "Ada",
+      "repo": "gps",
+      "repoLink": "/AdaCore/gps",
+      "stars": 27,
+      "starsToday": 0
+    },
+    {
+      "author": "AdaCore",
+      "desc": "An Ada binding for Lua.",
+      "forks": 2,
+      "lang": "Ada",
+      "repo": "ada-lua",
+      "repoLink": "/AdaCore/ada-lua",
+      "stars": 25,
+      "starsToday": 0
+    },
+    {
+      "author": "kburtch",
+      "desc": "Shell, web engine, scripting language mission-critical, scalable projects.",
+      "forks": 4,
+      "lang": "Ada",
+      "repo": "SparForte",
+      "repoLink": "/kburtch/SparForte",
+      "stars": 24,
+      "starsToday": 0
+    },
+    {
+      "author": "persan",
+      "desc": "Ada-bindings for 0mq",
+      "forks": 7,
+      "lang": "Ada",
+      "repo": "zeromq-Ada",
+      "repoLink": "/persan/zeromq-Ada",
+      "stars": 23,
+      "starsToday": 0
+    },
+    {
+      "author": "dsanson",
+      "desc": "A Latin-English Dictionary Program",
+      "forks": 12,
+      "lang": "Ada",
+      "repo": "Words",
+      "repoLink": "/dsanson/Words",
+      "stars": 20,
+      "starsToday": 0
+    },
+    {
+      "author": "AdaCore",
+      "desc": "Ada bindings for the GTK+ graphical library.",
+      "forks": 5,
+      "lang": "Ada",
+      "repo": "gtkada",
+      "repoLink": "/AdaCore/gtkada",
+      "stars": 20,
+      "starsToday": 0
+    },
+    {
+      "author": "karakalo",
+      "desc": "OpenGL GUI toolkit library for Ada",
+      "forks": 8,
+      "lang": "Ada",
+      "repo": "lumen",
+      "repoLink": "/karakalo/lumen",
+      "stars": 19,
+      "starsToday": 0
+    },
+    {
+      "author": "ytomino",
+      "desc": "Drake: A Runtime Library for gcc-Ada",
+      "forks": 8,
+      "lang": "Ada",
+      "repo": "drake",
+      "repoLink": "/ytomino/drake",
+      "stars": 18,
+      "starsToday": 0
+    },
+    {
+      "author": "ThomasLocke",
+      "desc": "A simple web-toolbox.",
+      "forks": 7,
+      "lang": "Ada",
+      "repo": "yolk",
+      "repoLink": "/ThomasLocke/yolk",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "janverschelde",
+      "desc": "solving polynomial systems with homotopy continuation methods",
+      "forks": 7,
+      "lang": "Ada",
+      "repo": "PHCpack",
+      "repoLink": "/janverschelde/PHCpack",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "AdaCore",
+      "desc": "An Ada binding generator from SVD descriptions for bare board ARM devices.",
+      "forks": 8,
+      "lang": "Ada",
+      "repo": "svd2ada",
+      "repoLink": "/AdaCore/svd2ada",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "rowsail",
+      "desc": "Ada For Microcontrollers (GPL)",
+      "forks": 4,
+      "lang": "Ada",
+      "repo": "AdaForMicrocontrollers",
+      "repoLink": "/rowsail/AdaForMicrocontrollers",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "AdaCore",
+      "desc": "SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-reliability applications.",
+      "forks": 2,
+      "lang": "Ada",
+      "repo": "spark2014",
+      "repoLink": "/AdaCore/spark2014",
+      "stars": 16,
+      "starsToday": 0
+    },
+    {
+      "author": "vishnuravi",
+      "desc": "Stable Matching Algorithm for Hospital-Residents Problem",
+      "forks": 7,
+      "lang": "Ada",
+      "repo": "stablematch",
+      "repoLink": "/vishnuravi/stablematch",
+      "stars": 15,
+      "starsToday": 0
+    },
+    {
+      "author": "karakalo",
+      "desc": "GUI toolkit for Ada using OpenGL",
+      "forks": 4,
+      "lang": "Ada",
+      "repo": "old-lumen",
+      "repoLink": "/karakalo/old-lumen",
+      "stars": 15,
+      "starsToday": 0
+    }
+  ],
+  "Agda": [
+    {
+      "author": "agda",
+      "desc": "The Agda standard library",
+      "forks": 45,
+      "lang": "Agda",
+      "repo": "agda-stdlib",
+      "repoLink": "/agda/agda-stdlib",
+      "stars": 108,
+      "starsToday": 0
+    },
+    {
+      "author": "liamoc",
+      "desc": "Learn you an Agda (and achieve enlightenment)",
+      "forks": 34,
+      "lang": "Agda",
+      "repo": "learn-you-an-agda",
+      "repoLink": "/liamoc/learn-you-an-agda",
+      "stars": 255,
+      "starsToday": 0
+    },
+    {
+      "author": "HoTT",
+      "desc": "Development of homotopy type theory in Agda",
+      "forks": 41,
+      "lang": "Agda",
+      "repo": "HoTT-Agda",
+      "repoLink": "/HoTT/HoTT-Agda",
+      "stars": 173,
+      "starsToday": 0
+    },
+    {
+      "author": "copumpkin",
+      "desc": "Categories parametrized by morphism equality, in Agda",
+      "forks": 22,
+      "lang": "Agda",
+      "repo": "categories",
+      "repoLink": "/copumpkin/categories",
+      "stars": 79,
+      "starsToday": 0
+    },
+    {
+      "author": "jstolarek",
+      "desc": "Companion code for \"Why Dependent Types Matter\" paper.",
+      "forks": 4,
+      "lang": "Agda",
+      "repo": "why-dependent-types-matter",
+      "repoLink": "/jstolarek/why-dependent-types-matter",
+      "stars": 53,
+      "starsToday": 0
+    },
+    {
+      "author": "pigworker",
+      "desc": "being the materials for CS410 Advanced Functional Programming in the 2014-15 session",
+      "forks": 6,
+      "lang": "Agda",
+      "repo": "CS410-14",
+      "repoLink": "/pigworker/CS410-14",
+      "stars": 52,
+      "starsToday": 0
+    },
+    {
+      "author": "dlicata335",
+      "desc": "",
+      "forks": 4,
+      "lang": "Agda",
+      "repo": "hott-agda",
+      "repoLink": "/dlicata335/hott-agda",
+      "stars": 44,
+      "starsToday": 0
+    },
+    {
+      "author": "UlfNorell",
+      "desc": "Summer school on programming in Agda",
+      "forks": 15,
+      "lang": "Agda",
+      "repo": "agda-summer-school",
+      "repoLink": "/UlfNorell/agda-summer-school",
+      "stars": 40,
+      "starsToday": 0
+    },
+    {
+      "author": "pigworker",
+      "desc": "being the materials for CS410 Advanced Functional Programming in the 2015/16 session",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "CS410-15",
+      "repoLink": "/pigworker/CS410-15",
+      "stars": 36,
+      "starsToday": 0
+    },
+    {
+      "author": "spire",
+      "desc": "The Spire Programming Language",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "spire",
+      "repoLink": "/spire/spire",
+      "stars": 35,
+      "starsToday": 0
+    },
+    {
+      "author": "UlfNorell",
+      "desc": "Programming library for Agda",
+      "forks": 13,
+      "lang": "Agda",
+      "repo": "agda-prelude",
+      "repoLink": "/UlfNorell/agda-prelude",
+      "stars": 32,
+      "starsToday": 0
+    },
+    {
+      "author": "scott-fleischman",
+      "desc": "A workshop on learning Agda with minimal prerequisites.",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "agda-from-nothing",
+      "repoLink": "/scott-fleischman/agda-from-nothing",
+      "stars": 32,
+      "starsToday": 0
+    },
+    {
+      "author": "crypto-agda",
+      "desc": "Cryptographic Constructions in the Type Theory of Agda",
+      "forks": 5,
+      "lang": "Agda",
+      "repo": "crypto-agda",
+      "repoLink": "/crypto-agda/crypto-agda",
+      "stars": 32,
+      "starsToday": 0
+    },
+    {
+      "author": "scmu",
+      "desc": "Agda proofs for some of the theorems in Robert Harper's Practical Foundations of Programming Languages.",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "foundations-harper",
+      "repoLink": "/scmu/foundations-harper",
+      "stars": 32,
+      "starsToday": 0
+    },
+    {
+      "author": "Saizan",
+      "desc": "Miller/pattern unification in Agda",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "miller",
+      "repoLink": "/Saizan/miller",
+      "stars": 29,
+      "starsToday": 0
+    },
+    {
+      "author": "scott-fleischman",
+      "desc": "Modeling Ancient Greek Grammar",
+      "forks": 4,
+      "lang": "Agda",
+      "repo": "greek-grammar",
+      "repoLink": "/scott-fleischman/greek-grammar",
+      "stars": 27,
+      "starsToday": 0
+    },
+    {
+      "author": "pigworker",
+      "desc": "being the notes and materials for CS410 in the 2013/14 academic session",
+      "forks": 4,
+      "lang": "Agda",
+      "repo": "CS410-13",
+      "repoLink": "/pigworker/CS410-13",
+      "stars": 26,
+      "starsToday": 0
+    },
+    {
+      "author": "pigworker",
+      "desc": "",
+      "forks": 6,
+      "lang": "Agda",
+      "repo": "Pivotal",
+      "repoLink": "/pigworker/Pivotal",
+      "stars": 24,
+      "starsToday": 0
+    },
+    {
+      "author": "rodrigogribeiro",
+      "desc": "Porting of software foundations book to Agda",
+      "forks": 3,
+      "lang": "Agda",
+      "repo": "agda-software-foundations",
+      "repoLink": "/rodrigogribeiro/agda-software-foundations",
+      "stars": 23,
+      "starsToday": 0
+    },
+    {
+      "author": "agda",
+      "desc": "An implementation of Functional Reactive Programming",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "agda-frp-ltl",
+      "repoLink": "/agda/agda-frp-ltl",
+      "stars": 23,
+      "starsToday": 0
+    },
+    {
+      "author": "pcapriotti",
+      "desc": "Base library for HoTT in Agda",
+      "forks": 4,
+      "lang": "Agda",
+      "repo": "agda-base",
+      "repoLink": "/pcapriotti/agda-base",
+      "stars": 21,
+      "starsToday": 0
+    },
+    {
+      "author": "scmu",
+      "desc": "Algebra of Programming in Agda: Dependent Types for Relational Program Derivation",
+      "forks": 3,
+      "lang": "Agda",
+      "repo": "aopa",
+      "repoLink": "/scmu/aopa",
+      "stars": 20,
+      "starsToday": 0
+    },
+    {
+      "author": "pepijnkokke",
+      "desc": "An implementation of a first-order auto tactic for Agda, in Agda.",
+      "forks": 4,
+      "lang": "Agda",
+      "repo": "AutoInAgda",
+      "repoLink": "/pepijnkokke/AutoInAgda",
+      "stars": 19,
+      "starsToday": 0
+    },
+    {
+      "author": "ZongzheYuan",
+      "desc": "The proof of undecidability of halting problem, using the model -- WHILE language.",
+      "forks": 1,
+      "lang": "Agda",
+      "repo": "HaltingProblem",
+      "repoLink": "/ZongzheYuan/HaltingProblem",
+      "stars": 18,
+      "starsToday": 0
+    },
+    {
+      "author": "favonia",
+      "desc": "My old Agda code for Homotopy Type Theory. See HoTT/HoTT-Agda for the new one.",
+      "forks": 2,
+      "lang": "Agda",
+      "repo": "homotopy",
+      "repoLink": "/favonia/homotopy",
+      "stars": 17,
+      "starsToday": 0
+    }
+  ],
+  "Alloy": [
+    {
+      "author": "danielbayley",
+      "desc": "A collection of useful additions to @Ableton Live, including better Git integration.",
+      "forks": 9,
+      "lang": "Alloy",
+      "repo": "Ableton-Live-tools",
+      "repoLink": "/danielbayley/Ableton-Live-tools",
+      "stars": 76,
+      "starsToday": 0
+    },
+    {
+      "author": "DavW",
+      "desc": "Algorithmic music project for MIDIHACK 2014",
+      "forks": 3,
+      "lang": "Alloy",
+      "repo": "midihack",
+      "repoLink": "/DavW/midihack",
+      "stars": 31,
+      "starsToday": 0
+    },
+    {
+      "author": "mark-henry",
+      "desc": "The great Ableton experiment",
+      "forks": 5,
+      "lang": "Alloy",
+      "repo": "ableton-experiment",
+      "repoLink": "/mark-henry/ableton-experiment",
+      "stars": 11,
+      "starsToday": 0
+    },
+    {
+      "author": "Iyouboushi",
+      "desc": "mIRC Bot - Battle Arena",
+      "forks": 7,
+      "lang": "Alloy",
+      "repo": "mIRC-BattleArena",
+      "repoLink": "/Iyouboushi/mIRC-BattleArena",
+      "stars": 11,
+      "starsToday": 0
+    },
+    {
+      "author": "adamjmurray",
+      "desc": "An example of using the Max for Live JavaScript API to modify MIDI clips.",
+      "forks": 3,
+      "lang": "Alloy",
+      "repo": "js-live-api-humanize-midi-clips",
+      "repoLink": "/adamjmurray/js-live-api-humanize-midi-clips",
+      "stars": 10,
+      "starsToday": 0
+    },
+    {
+      "author": "lorin",
+      "desc": "",
+      "forks": 2,
+      "lang": "Alloy",
+      "repo": "alloy-fish",
+      "repoLink": "/lorin/alloy-fish",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "kepae",
+      "desc": "An Alloy Analyzer modeling of the Bitcoin cryptocurrency transaction and blockchain. (WIP)",
+      "forks": 3,
+      "lang": "Alloy",
+      "repo": "alloy-coin",
+      "repoLink": "/kepae/alloy-coin",
+      "stars": 7,
+      "starsToday": 0
+    },
+    {
+      "author": "devd",
+      "desc": "Automatically exported from code.google.com/p/websecmodel",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "websecmodel",
+      "repoLink": "/devd/websecmodel",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "Binomio",
+      "desc": "Bootstrap template for producing a song with Ableton Live 9",
+      "forks": 2,
+      "lang": "Alloy",
+      "repo": "bootstrap-base-song-for-live9",
+      "repoLink": "/Binomio/bootstrap-base-song-for-live9",
+      "stars": 6,
+      "starsToday": 0
+    },
+    {
+      "author": "SaberMirzaei",
+      "desc": "An Alloy Verification Model for Consensus-Based Auction Protocols",
+      "forks": 2,
+      "lang": "Alloy",
+      "repo": "Alloy-Model-of-MCA",
+      "repoLink": "/SaberMirzaei/Alloy-Model-of-MCA",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "fstakem",
+      "desc": "Code from the book on Alloy \"Software Abtractions: Logic, Language, and Analysis\"",
+      "forks": 2,
+      "lang": "Alloy",
+      "repo": "alloy_book",
+      "repoLink": "/fstakem/alloy_book",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "rossgore",
+      "desc": "Material from SpringSim tutorial on Conceptual Modeling with Alloy",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "alloy-tutorial",
+      "repoLink": "/rossgore/alloy-tutorial",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "pron",
+      "desc": "TLA+ and Alloy specs of database isolation",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "amazon-snapshot-spec",
+      "repoLink": "/pron/amazon-snapshot-spec",
+      "stars": 5,
+      "starsToday": 0
+    },
+    {
+      "author": "samueltcsantos",
+      "desc": "Reposit\u00f3rio para o Projeto de da Disciplina de L\u00f3gica usando Alloy.",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "logica.alloy",
+      "repoLink": "/samueltcsantos/logica.alloy",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "mravella",
+      "desc": "CS195Y Final Project. Logic model of Autodesk Maya.",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "maya_model",
+      "repoLink": "/mravella/maya_model",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "BGCX261",
+      "desc": "",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "zigbee-alloy-svn-to-git",
+      "repoLink": "/BGCX261/zigbee-alloy-svn-to-git",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "aishamidori",
+      "desc": "Implementation of proofs for graph theory properties and algorithms in alloy.",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "cs195y-final",
+      "repoLink": "/aishamidori/cs195y-final",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "salesfelipe",
+      "desc": "Projeto de L\u00f3gica 2013.2",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "projetoDeLogica",
+      "repoLink": "/salesfelipe/projetoDeLogica",
+      "stars": 4,
+      "starsToday": 0
+    },
+    {
+      "author": "kmcallister",
+      "desc": "Garbage collector models in Alloy",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "gc-models",
+      "repoLink": "/kmcallister/gc-models",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "ArcherCraftStore",
+      "desc": "A Developer's Kit for Maya",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "ArcherCraft_Maya",
+      "repoLink": "/ArcherCraftStore/ArcherCraft_Maya",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "cpmpercussion",
+      "desc": "Music for Tesla Coils",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "teslamusic",
+      "repoLink": "/cpmpercussion/teslamusic",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "z64",
+      "desc": "",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "track-52314",
+      "repoLink": "/z64/track-52314",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "Echtzeitsysteme",
+      "desc": "",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "cardygan",
+      "repoLink": "/Echtzeitsysteme/cardygan",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "millerns",
+      "desc": "",
+      "forks": 0,
+      "lang": "Alloy",
+      "repo": "ReliableDataTransfer",
+      "repoLink": "/millerns/ReliableDataTransfer",
+      "stars": 3,
+      "starsToday": 0
+    },
+    {
+      "author": "usdivad",
+      "desc": "",
+      "forks": 1,
+      "lang": "Alloy",
+      "repo": "ada_sib",
+      "repoLink": "/usdivad/ada_sib",
+      "stars": 2,
+      "starsToday": 0
+    }
+  ],
+  "Alpine Abuild": [],
+  "all": [
+    {
+      "author": "ro31337",
+      "desc": "LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers.",
+      "forks": 124,
+      "lang": "JavaScript",
+      "repo": "libretaxi",
+      "repoLink": "/ro31337/libretaxi",
+      "stars": 845,
+      "starsToday": 630
+    },
+    {
+      "author": "Fakerr",
+      "desc": "Simple and handy tool to easily recall what you've done",
+      "forks": 31,
+      "lang": "Shell",
+      "repo": "git-recall",
+      "repoLink": "/Fakerr/git-recall",
+      "stars": 1190,
+      "starsToday": 528
+    },
+    {
+      "author": "oliver-moran",
+      "desc": "An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
+      "forks": 155,
+      "lang": "JavaScript",
+      "repo": "jimp",
+      "repoLink": "/oliver-moran/jimp",
+      "stars": 2652,
+      "starsToday": 510
+    },
+    {
+      "author": "freeCodeCamp",
+      "desc": "The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+      "forks": 9170,
+      "lang": "JavaScript",
+      "repo": "freeCodeCamp",
+      "repoLink": "/freeCodeCamp/freeCodeCamp",
+      "stars": 227574,
+      "starsToday": 463
+    },
+    {
+      "author": "FrontendMasters",
+      "desc": "2017 edition of our front-end development guide",
+      "forks": 39,
+      "lang": "JavaScript",
+      "repo": "front-end-handbook-2017",
+      "repoLink": "/FrontendMasters/front-end-handbook-2017",
+      "stars": 573,
+      "starsToday": 441
+    },
+    {
+      "author": "monostable",
+      "desc": "A curated list of awesome resources for electronic engineers and hobbyists",
+      "forks": 49,
+      "lang": "Unknown",
+      "repo": "awesome-electronics",
+      "repoLink": "/monostable/awesome-electronics",
+      "stars": 1425,
+      "starsToday": 337
+    },
+    {
+      "author": "syscl",
+      "desc": "macOS patches for Dell XPS 13 9350 (Skylake)",
+      "forks": 15,
+      "lang": "Shell",
+      "repo": "XPS9350-macOS",
+      "repoLink": "/syscl/XPS9350-macOS",
+      "stars": 388,
+      "starsToday": 332
+    },
+    {
+      "author": "fission",
+      "desc": "Fast Serverless Functions for Kubernetes",
+      "forks": 49,
+      "lang": "Go",
+      "repo": "fission",
+      "repoLink": "/fission/fission",
+      "stars": 1141,
+      "starsToday": 301
+    },
+    {
+      "author": "pubkey",
+      "desc": "\ud83d\udcbb \ud83d\udcf1 Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime \u2757\ufe0f",
+      "forks": 70,
+      "lang": "JavaScript",
+      "repo": "rxdb",
+      "repoLink": "/pubkey/rxdb",
+      "stars": 2660,
+      "starsToday": 270
+    },
+    {
+      "author": "klange",
+      "desc": "Hobby kernel + userspace, built mostly from scratch. Composited GUI, dynamically linked ELF binaries, networking, Python applications, and more.",
+      "forks": 224,
+      "lang": "C",
+      "repo": "toaruos",
+      "repoLink": "/klange/toaruos",
+      "stars": 1802,
+      "starsToday": 216
+    },
+    {
+      "author": "x0rz",
+      "desc": "Tweets metadata scraper & activity analyzer",
+      "forks": 36,
+      "lang": "Python",
+      "repo": "tweets_analyzer",
+      "repoLink": "/x0rz/tweets_analyzer",
+      "stars": 353,
+      "starsToday": 206
+    },
+    {
+      "author": "pfnet",
+      "desc": "line drawing colorization using chainer",
+      "forks": 111,
+      "lang": "Jupyter Notebook",
+      "repo": "PaintsChainer",
+      "repoLink": "/pfnet/PaintsChainer",
+      "stars": 1037,
+      "starsToday": 195
+    },
+    {
+      "author": "hyperapp",
+      "desc": "1kb JavaScript library for building modern UI applications",
+      "forks": 13,
+      "lang": "JavaScript",
+      "repo": "hyperapp",
+      "repoLink": "/hyperapp/hyperapp",
+      "stars": 266,
+      "starsToday": 188
+    },
+    {
+      "author": "webpack",
+      "desc": "Example for a super simple PWA with webpack.",
+      "forks": 7,
+      "lang": "JavaScript",
+      "repo": "webpack-pwa",
+      "repoLink": "/webpack/webpack-pwa",
+      "stars": 325,
+      "starsToday": 182
+    },
+    {
+      "author": "react-community",
+      "desc": "Learn once, navigate anywhere",
+      "forks": 56,
+      "lang": "JavaScript",
+      "repo": "react-navigation",
+      "repoLink": "/react-community/react-navigation",
+      "stars": 1584,
+      "starsToday": 137
+    },
+    {
+      "author": "kciter",
+      "desc": "Generate artistic QR code. \ud83c\udfa8",
+      "forks": 26,
+      "lang": "JavaScript",
+      "repo": "qart.js",
+      "repoLink": "/kciter/qart.js",
+      "stars": 1168,
+      "starsToday": 141
+    },
+    {
+      "author": "avocode",
+      "desc": "Nachos UI is a React Native component library.",
+      "forks": 5,
+      "lang": "JavaScript",
+      "repo": "nachos-ui",
+      "repoLink": "/avocode/nachos-ui",
+      "stars": 173,
+      "starsToday": 137
+    },
+    {
+      "author": "ParsePlatform",
+      "desc": "Parse-compatible API server module for Node/Express",
+      "forks": 3425,
+      "lang": "JavaScript",
+      "repo": "parse-server",
+      "repoLink": "/ParsePlatform/parse-server",
+      "stars": 12701,
+      "starsToday": 127
+    },
+    {
+      "author": "deepsyx",
+      "desc": "Raspberry Pi 3 based home automation with NodeJS and React Native.",
+      "forks": 94,
+      "lang": "JavaScript",
+      "repo": "home-automation",
+      "repoLink": "/deepsyx/home-automation",
+      "stars": 2211,
+      "starsToday": 128
+    },
+    {
+      "author": "murlokswarm",
+      "desc": "Package to create apps with GO, HTML and CSS.",
+      "forks": 3,
+      "lang": "Go",
+      "repo": "app",
+      "repoLink": "/murlokswarm/app",
+      "stars": 172,
+      "starsToday": 125
+    },
+    {
+      "author": "jarrekk",
+      "desc": "\ud83c\udf86 Wkhtmltoimage python wrapper to convert html to image",
+      "forks": 10,
+      "lang": "Python",
+      "repo": "imgkit",
+      "repoLink": "/jarrekk/imgkit",
+      "stars": 260,
+      "starsToday": 119
+    },
+    {
+      "author": "martinarjovsky",
+      "desc": "",
+      "forks": 13,
+      "lang": "Python",
+      "repo": "WassersteinGAN",
+      "repoLink": "/martinarjovsky/WassersteinGAN",
+      "stars": 183,
+      "starsToday": 116
+    },
+    {
+      "author": "bfirsh",
+      "desc": "Homebrew, but with Docker images",
+      "forks": 37,
+      "lang": "Go",
+      "repo": "whalebrew",
+      "repoLink": "/bfirsh/whalebrew",
+      "stars": 1581,
+      "starsToday": 111
+    },
+    {
+      "author": "tensorflow",
+      "desc": "Computation using data flow graphs for scalable machine learning",
+      "forks": 20734,
+      "lang": "C++",
+      "repo": "tensorflow",
+      "repoLink": "/tensorflow/tensorflow",
+      "stars": 44409,
+      "starsToday": 81
+    },
+    {
+      "author": "richardtop",
+      "desc": "\ud83d\udcc5 Fully customizable calendar for iOS",
+      "forks": 15,
+      "lang": "Swift",
+      "repo": "CalendarKit",
+      "repoLink": "/richardtop/CalendarKit",
+      "stars": 406,
+      "starsToday": 98
+    }
+  ]
+}
