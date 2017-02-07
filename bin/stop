@@ -1,0 +1,3 @@
+#!/bin/bash
+
+launchctl bootout gui/501 /Library/LaunchAgents/sery.schedule.csc3130.plist

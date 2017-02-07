@@ -112,7 +112,7 @@ def scrape():
 
     # Make the Pool of workers
     pool = ThreadPool(4)
-    pool.map(assign)
+    pool.map(assign, languages)
     #close the pool and wait for the work to finish
     pool.close()
     pool.join()
