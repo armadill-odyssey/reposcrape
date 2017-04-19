@@ -54,13 +54,13 @@ def scrapeTrendingList(ol):
             lang = 'Unknown'
 
         try:
-            stars = li.select('a[aria-label="Stargazers"]')[0].text.strip()
+            stars = li.select('a[href*="stargazers"]')[0].text.strip()
             stars = locale.atoi(stars)
         except:
             stars = 0
 
         try:
-            forks = li.select('a[aria-label="Forks"]')[0].text
+            forks = li.select('a[href*="network"]')[0].text
             forks = locale.atoi(forks)
         except:
             forks = 0
